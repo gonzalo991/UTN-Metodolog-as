@@ -1,5 +1,5 @@
-#Hola mundo
+# **Hola mundo**
 
-Mi primer repositorio en git
+## *Mi primer repositorio en git*
 
-Me gustan los videojuegos y la musica.
+### Me gustan los videojuegos y la musica.
